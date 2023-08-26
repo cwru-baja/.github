@@ -9,7 +9,7 @@ This makes managing access to our repositories, tracking users, and keeping our 
 
 To get started with SSH cloning, we recommend you follow [this guide.](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-In addition to this, we recommend that you reconfigure your git client to rebaseinstead of merging. We also recommend you prune on every fetch.
+In addition to this, we recommend that you reconfigure your git client to rebase instead of merging. We also recommend you prune on every fetch.
 You can do this with the following shell command on macOS or Linux:
 
 ```console
